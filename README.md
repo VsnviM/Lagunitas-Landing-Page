@@ -52,8 +52,8 @@ A smooth, scroll-animated clone of the Lagunitas Beer landing page — built as 
 ## 🧩 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/VsnviM/Lagunitas-Landing-Page.git
+cd Lagunitas-Landing-Page
 # Open index.html in your browser
 ```
 
