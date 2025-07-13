@@ -27,13 +27,6 @@ A smooth, scroll-animated clone of the Lagunitas Beer landing page — built as 
 
 ---
 
-## 📸 Screenshots
-
-> Add some screenshots or a short GIF preview of your site here  
-> (you can upload them in `/assets` and reference them!)
-
----
-
 ## 📂 Folder Structure
 
 ```bash
@@ -52,7 +45,7 @@ A smooth, scroll-animated clone of the Lagunitas Beer landing page — built as 
 
 ## 🌐 Live Demo
 
-👉 [**View deployed site**](https://your-username.github.io/your-repo-name)
+👉 [**View deployed site**](https://vsnvim.github.io/Lagunitas-Landing-Page/)
 
 ---
 
